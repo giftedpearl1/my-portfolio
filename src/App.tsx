@@ -3,7 +3,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import { 
   Code2, 
   MessageSquare, 
-  Bot, 
   ArrowRight, 
   CheckCircle2, 
   Menu, 
